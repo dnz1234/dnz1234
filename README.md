@@ -13,4 +13,33 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->## Skills
+
+- HTML/CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Git
+
+## Projects
+
+Here are some of the projects that I've worked on:
+
+- [PETCARA](link): Short description of project
+
+
+## Experience
+
+
+
+## Education
+
+- [CALICUT UNIVERSITY](link) - Degree, Field of study, Graduation year
+
+
+## Contact me
+
+- Email: nihildhanish01@gmail.com
+-
